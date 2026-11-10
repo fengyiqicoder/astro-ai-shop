@@ -7,7 +7,7 @@ imageAlt: Cobalt blue A5 notebook with an exposed stitched spine
 summary: Six signatures sewn with waxed linen over an open spine, so it opens completely flat on the desk.
 category: notebooks
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_eVq00bgSi8Bzak74bs6sw01
 featured: true
 askPlaceholder: Will a broad fountain pen nib bleed through?
 order: 1

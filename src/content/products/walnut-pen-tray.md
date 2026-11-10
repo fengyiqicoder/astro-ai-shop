@@ -7,7 +7,7 @@ imageAlt: Oiled walnut pen tray holding three pens
 summary: A shallow tray cut from one piece of black walnut, oiled and waxed, with a cork base that keeps it still.
 category: desk
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_aFadR16dEcRP3VJazQ6sw05
 askPlaceholder: Will a long fountain pen fit with the cap posted?
 featured: true
 order: 5

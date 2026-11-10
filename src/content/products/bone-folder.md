@@ -7,7 +7,7 @@ imageAlt: Ivory bone folder on a dark background, beside a folded sheet
 summary: The one tool every binder uses all day. Cow bone, one pointed end and one round, polished by hand.
 category: tools
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_9B6cMX7hI3hf0JxcHY6sw00
 order: 6
 specs:
   - { label: Length, value: "150 mm (6 inch)" }

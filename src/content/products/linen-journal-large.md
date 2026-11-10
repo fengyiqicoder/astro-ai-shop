@@ -7,7 +7,7 @@ imageAlt: Large moss green linen journal with a red ribbon marker
 summary: A B5 hardcover with sewn signatures, a rounded spine and 240 pages of 5 mm dot grid on heavy paper.
 category: notebooks
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_7sYeV5atU4ljcsf23k6sw03
 featured: true
 badge: New
 askPlaceholder: Is it heavy enough to carry every day?

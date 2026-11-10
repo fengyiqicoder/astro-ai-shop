@@ -7,7 +7,7 @@ imageAlt: Three kraft pocket notebooks fanned out, with blue, red and yellow spi
 summary: Three thread-stitched pocket notebooks, one dot grid, one lined, one blank, in a kraft card cover.
 category: notebooks
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_00w8wH1XocRP2RFdM26sw04
 featured: true
 askPlaceholder: Can I get all three in dot grid?
 order: 2

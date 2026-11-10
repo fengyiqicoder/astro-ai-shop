@@ -7,7 +7,7 @@ imageAlt: A4 dot grid desk pad with a pencil lying across it
 summary: Sixty tear-off A4 sheets of 5 mm dot grid on a stiff greyboard back, for the space between keyboard and coffee.
 category: paper
 paymentLink: https://buy.stripe.com/REPLACE_ME
-paymentLinkTest: https://buy.stripe.com/test_REPLACE_ME
+paymentLinkTest: https://buy.stripe.com/test_fZu8wH59AbNL2RF6jA6sw02
 order: 4
 specs:
   - { label: Size, value: "A4, 210 x 297 mm" }

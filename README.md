@@ -25,7 +25,7 @@ A free Astro ecommerce theme with no backend: every product is a Markdown file, 
 
 ## Try the checkout
 
-With Stripe test links in place, click Buy on any product and pay with card `4242 4242 4242 4242`, any future expiry date and any CVC. No money moves, and you land back on the store's thank-you page. The demo products ship with placeholder links, so the live demo shows "Checkout not connected yet" and the button is switched off on purpose until you paste your own links (see [Set up Stripe](#set-up-stripe)).
+The demo store runs on Stripe test links. Click Buy on any product and pay with card `4242 4242 4242 4242`, any future expiry date and any CVC. No money moves, and you land back on the store's thank-you page. The sold-out kit has no link on purpose. In your own copy, replace the links with yours (see [Set up Stripe](#set-up-stripe)).
 
 ## Quick start
 
