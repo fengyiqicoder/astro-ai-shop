@@ -1,0 +1,9 @@
+// Used only by the "Deploy to Cloudflare" button: serves the static build from dist/.
+{
+	"name": "astro-ai-shop",
+	"compatibility_date": "2026-10-01",
+	"assets": {
+		"directory": "./dist",
+		"not_found_handling": "404-page"
+	}
+}
