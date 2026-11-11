@@ -113,7 +113,7 @@ Put it in `.env`:
 PUBLIC_ONETAG_KEY=ot_your_key_here
 ```
 
-The key is public by design, like an analytics ID: it ships in the HTML and can only spend that account's allowance of 1,000,000 free tokens a month. Without a key the deployed store works normally and the box says Ask AI is not set up.
+The key is public by design, like an analytics ID: it ships in the HTML and can only spend that account's allowance of 1,000,000 free tokens, one time, no monthly reset. Without a key the deployed store works normally and the box says Ask AI is not set up.
 
 ## Limits
 
